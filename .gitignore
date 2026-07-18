@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+scraped/
+scraped_backup/
+words_lib/**/log.txt
+words_lib/**/matrix.d?.pkl
+words_lib/**/tokens.db
+words_lib/**/tokens.pkl
